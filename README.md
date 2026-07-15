@@ -1,6 +1,6 @@
 # SQL, Python, and Jupyter Notebook Search Tool
 
-**Owner:** Brad Youles
+**Owner:** Brad Youles<br>
 **Status:** Active  
 **Last reviewed:** 2026-07-15  
 
